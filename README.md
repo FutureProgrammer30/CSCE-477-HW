@@ -8,25 +8,7 @@ A secure authentication application built with Node.js, Express, and SQLite that
 - **Backend**: Node.js, Express.js
 - **Database**: SQLite3
 - **Frontend**: HTML, CSS, JavaScript
-- **Port**: 3000
 
-## Installation
-
-1. Clone the repository
-```bash
-git clone https://github.com/FutureProgrammer30/CSCE-477-HW.git
-cd CSCE-477-HW
-```
-
-2. Install dependencies
-```bash
-npm install
-```
-
-3. Start the server
-```bash
-npm start
-``
 
 ## Usage
 
